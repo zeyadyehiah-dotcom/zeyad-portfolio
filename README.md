@@ -22,12 +22,12 @@ Unreal Engine, Environment Art, and Lighting.
 ### Unreal Engine Environment
 Environment art and scene composition created in Unreal Engine.
 
-![Environment](images/environment.jpg)
+
 
 ### Lighting Project
 Unreal Engine lighting and cinematic scene setup.
 
-![Lighting](images/lighting.jpg)
+
 
 ### 3D Animation
 3D animation and scene arrangement using Maya and Unreal Engine.
